@@ -1,20 +1,17 @@
 {
     "META": {
         "repoName": "Ian IPAs",
-        "repoIcon": ""
+        "repoIcon": "https://usescarlet.com/favicon.png"
     },
     "Apps": [
         {
-            "name": "Suffuse",
-            "version": "7.7.3",
-            "icon": "https://avatars.githubusercontent.com/u/96971772?s=200&v=4",
-            "down": "https://github.com/Suffuse-Team/suffuse-team.github.io/releases/download/v7.7.3/Suffuse-iOS.ipa",
-            "category": "Apps",
-            "description": "Infuse mod",
-            "bundleID": "com.mo.streamer.ios",
-            "appstore": "com.mo.streamer.ios",
-            "contact": {
-                "web": "https://github.com/StreamerApp/Streamer/issues"
+          "name": "iPogo",
+      "version": "0.301.0",
+      "down": "https://ipogo.app/download/ipogo-3.2.5.ipa",
+      "category": "Hacked Games",
+      "description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
+      "bundleID": "com.nianticlabs.pokemongo",
+      "appstore": "com.nianticlabs.pokemongo"
             }
         }
     ]
