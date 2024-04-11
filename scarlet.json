@@ -4,18 +4,21 @@
     "repoIcon": "https://usescarlet.com/favicon.png"
   },
   {
-    "name": "Suffuse",
-    "version": "7.7.3",
-    "down": "https://github.com/Suffuse-Team/suffuse-team.github.io/releases/download/v7.7.3/Suffuse-iOS.ipa",
-    "dev": "Cool developer name",
-    "icon": "link_to_app_icon",
-    "category": "category",
-    "description": "Description of application",
-    "bundleID": "app.bundle.id",
-    "screenshots" [
-        "link_to_screenshot1",
-        "link_to_screenshot2",
-        "link_to_screenshot3"
+            "name": "IGRocketRegram_326.0.3",
+            "version": "326.0.3",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/IGRocketRegram_326.0.3.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/IGRocketRegram_326.0.3.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Rocket 3.8.24 Regram 1.0-b4.. CBZ'd",
+            "bundleID": "IGRocketRegram_326.0.3",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/IGRocketRegram_326.0.3\/IGRocketRegram_326.0.3-2.png"
+
     ],
     "contact": {
         "web": "developer_website",
